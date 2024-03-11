@@ -1,0 +1,12 @@
+body{
+    background-color: cornflowerblue;
+}
+main{
+    background-image: url("https://www.lavanguardia.com/files/image_449_220/uploads/2020/03/09/5fa904d914b68.png");
+    
+    border: 2px solid black;
+    width: 400px;
+    height: 245px;
+    margin: 200px auto;
+    
+}
